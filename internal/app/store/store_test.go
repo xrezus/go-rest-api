@@ -5,9 +5,7 @@ import (
 	"testing"
 )
 
-var (
-	databaseURL string
-)
+var databaseURL string
 
 func TestMain(m *testing.M) {
 	databaseURL = os.Getenv("DATABASE_URL")

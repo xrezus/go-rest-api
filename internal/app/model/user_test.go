@@ -1,9 +1,10 @@
 package model_test
 
 import (
+	"testing"
+
 	"github.com/stretchr/testify/assert"
 	"github.com/xrezus/go-rest-api/internal/app/model"
-	"testing"
 )
 
 func TestUser_Validate(t *testing.T) {
