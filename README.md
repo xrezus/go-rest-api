@@ -1,0 +1,1 @@
+## A simple example of a REST API written in Golang
