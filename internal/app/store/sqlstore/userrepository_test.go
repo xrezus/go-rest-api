@@ -1,11 +1,11 @@
 package sqlstore_test
 
 import (
-	"github.com/xrezus/go-rest-api/internal/app/store"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/xrezus/go-rest-api/internal/app/model"
+	"github.com/xrezus/go-rest-api/internal/app/store"
 	"github.com/xrezus/go-rest-api/internal/app/store/sqlstore"
 )
 

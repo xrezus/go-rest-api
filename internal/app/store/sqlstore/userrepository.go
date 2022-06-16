@@ -2,6 +2,7 @@ package sqlstore
 
 import (
 	"database/sql"
+
 	"github.com/xrezus/go-rest-api/internal/app/model"
 	"github.com/xrezus/go-rest-api/internal/app/store"
 )

@@ -2,9 +2,9 @@ package sqlstore
 
 import (
 	"database/sql"
-	"github.com/xrezus/go-rest-api/internal/app/store"
 
 	_ "github.com/lib/pq" // ...
+	"github.com/xrezus/go-rest-api/internal/app/store"
 )
 
 type Store struct {
